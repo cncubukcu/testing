@@ -1,0 +1,14 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cncubukcu/testing.git",
+  "author": "Can Cubukcu <can@jotform.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.29.2"
+  },
+  "scripts": {
+    "test": "yarn playwright test"
+  }
+}
